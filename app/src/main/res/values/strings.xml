@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">GamesApp</string>
+
+    <!-- Main Menu -->
+    <string name="main_menu">Main Menu</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="battleship">Battleship</string>
+    <string name="hangman">Hangman</string>
+    <string name="wordsearch">Word Search</string>
+
+    <!-- Expandable / Buttons -->
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="pvp">PVP</string>
+    <string name="vs_ai">Vs AI</string>
+    <string name="expand_section">Expand %1$s</string>
+    <string name="collapse_section">Collapse %1$s</string>
+
+    <!-- Tic Tac Toe -->
+    <string name="tic_tac_toe_title">Tic Tac Toe</string>
+    <string name="back">Back</string>
+    <string name="winner">Winner: %1$s</string>
+    <string name="draw">It\'s a Draw!</string>
+    <string name="turn">Turn: %1$s</string>
+    <string name="ai_thinking">AI thinking about it…</string>
+    <string name="reset">Reset</string>
+
+    <!-- Battleship -->
+    <string name="battleship_title">Battleship</string>
+    <string name="place_ships_count">Place your ships (%1$d/%2$d)</string>
+    <string name="enemy_board">Enemy Board</string>
+    <string name="your_board">Your Board</string>
+    <string name="restart">Restart</string>
+    <string name="start">Start</string>
+    <string name="available_ships">Available Ships</string>
+    <string name="ai_wins">The AI wins!</string>
+
+
+    <!-- Hangman -->
+    <string name="hangman_title">Hangman</string>
+    <string name="word_label">Word: %1$s</string>
+    <string name="errors_label">Errors: %1$d / %2$d</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_lose_word">You lose! The word was: %1$s</string>
+    <string name="definition_label">Definition: %1$s</string>
+    <string name="new_game">New Game</string>
+    <string name="hint_label">Hint: %1$s</string>
+
+    <!-- WordSoup -->
+    <string name="word_soup_title">Word Soup</string>
+    <string name="loading">Loading word search…</string>
+    <string name="find_words">Find the words:</string>
+    <string name="validate">Validate Selection</string>
+    <string name="words_found_count">Words: %1$d/%2$d</string>
+    <string name="loading_word_soup">Loading word search…</string>
+    <string name="validate_selection">Validate Selection</string>
+    <string name="words_found">Words Found: %1$d</string>
+    <string name="congrats_all_found">All words found! Great job!</string>
+    <string name="words_found_label">Words: %1$d/%2$d</string>
+    <string name="word_soup_loading">Loading word search…</string>
+    <string name="word_soup_found">Words found: %1$d/%2$d</string>
+    <string name="word_soup_validate">Validate</string>
+    <string name="word_soup_new_game">New Game</string>
+    <string name="you_found_all_words">You found all words!</string>
+    <string name="loading_word_search">Loading word search…</string>
+
+</resources>
